@@ -1,0 +1,37 @@
+[
+  {
+    "name": "AI and Robotics Club",
+    "description": "Explore artificial intelligence, machine learning, robotics and innovation projects.",
+    "category": "Technology"
+  },
+  {
+    "name": "Coding Club",
+    "description": "Practice programming, problem solving, hackathons and competitive coding.",
+    "category": "Technology"
+  },
+  {
+    "name": "Photography Club",
+    "description": "Learn photography, photo editing and visual storytelling.",
+    "category": "Arts"
+  },
+  {
+    "name": "Music and Dance Club",
+    "description": "Participate in music, dance, performances and cultural events.",
+    "category": "Arts"
+  },
+  {
+    "name": "Cultural Club",
+    "description": "Celebrate traditions, festivals and cultural activities on campus.",
+    "category": "Culture"
+  },
+  {
+    "name": "Sports Club",
+    "description": "Join sports activities, practice sessions and inter-college competitions.",
+    "category": "Sports"
+  },
+  {
+    "name": "Social Service Club",
+    "description": "Take part in volunteering, community service and awareness campaigns.",
+    "category": "Social Service"
+  }
+]

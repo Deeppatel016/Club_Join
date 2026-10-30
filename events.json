@@ -1,0 +1,23 @@
+[
+    {
+        "id": "evt_6ad0f55d702dd",
+        "title": "Artificial intelligence",
+        "club": "AI for ALL",
+        "event_date": "2026-11-20",
+        "description": "AI for All Club is an inclusive community where students from diverse backgrounds come together to explore the fascinating world of artificial intelligence.\r\n\r\nThe club aims to build foundational and advanced AI knowledge by covering key topics such as machine learning, deep learning, natural language processing, and computer vision.Through hands-on projects, workshops, and discussions, students gain practical experience in applying AI to real-world problems."
+    },
+    {
+        "id": "evt_6ad0f59e7cebc",
+        "title": "Math for AI",
+        "club": "Math for AI",
+        "event_date": "2026-11-21",
+        "description": "Math for AI Club is a dedicated community where passionate and curious students come together to explore the mathematical foundations of artificial intelligence.\r\n\r\nThe club focuses on developing strong mathematical skills, including linear algebra, probability, statistics, and calculus, which are essential for understanding and building AI models. Through various activities, students can deepen their knowledge and experience how mathematical concepts are applied in real-world AI applications. This club provides a platform for students to experiment with mathematical modeling, optimization techniques, and AI-related problem-solving."
+    },
+    {
+        "id": "evt_6ad0f5d343a19",
+        "title": "Innovators",
+        "club": "Innovators",
+        "event_date": "2026-11-22",
+        "description": "Innovators Club : Prepare, Compete, Grow, The Innovators Club serves as a dedicated platform for fostering creativity, critical thinking, and innovation among students.\r\n\r\nIt aims to encourage the development of novel ideas and technological solutions through collaboration, research, and hands-on experimentation. The club provides opportunities for members to engage in workshops, competitions, and project-based learning, thereby nurturing a culture of innovation and entrepreneurship."
+    }
+]

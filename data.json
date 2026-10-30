@@ -1,0 +1,50 @@
+[
+    {
+        "name": "DEEP",
+        "email": "deep@gmail.com",
+        "mobile": "1234567890",
+        "password": "$2y$10$TDmViCBGqWhw5oKbPX5m\/O.b3iRqo1XuGbsp7VPLF6IY9Kv7Db0dO",
+        "course": "B.Tech AIML",
+        "year": "2nd Year"
+    },
+    {
+        "name": "DEEEP",
+        "email": "deeep@gmail.com",
+        "mobile": "1234567891",
+        "password": "$2y$10$PHnzayNJzjjB40dG4GR3U.qbk0u4e2M0KXjP.2OLuqbs2Fm8ML\/wS",
+        "course": "B.Tech AIML",
+        "year": "2nd Year"
+    },
+    {
+        "name": "DEEPP",
+        "email": "deepp@gmail.com",
+        "mobile": "1234567892",
+        "password": "$2y$10$kv2wxmPjYuSJAlHAd.7n1e3gG6TME.evGzYfOQb6462P7g6kTr1Ki",
+        "course": "B.Tech AIML",
+        "year": "2nd Year"
+    },
+    {
+        "name": "DEEEPP",
+        "email": "deeepp@gmail.com",
+        "mobile": "1234567893",
+        "password": "$2y$10$PZD2AYnLjLoVXQ7s6j.WvO1dmNHhz7z1AYFKnpowamINBgtdkkAuu",
+        "course": "B.Tech AIML",
+        "year": "2nd Year"
+    },
+    {
+        "name": "DEEEPPP",
+        "email": "deeeppp@gmail.com",
+        "mobile": "1234567894",
+        "password": "$2y$10$uLSGJO4QuY8eK10OnbZFP.pE996.\/gaizcPWY3sezZ6Haa7tUyYqy",
+        "course": "B.Tech AIML",
+        "year": "2nd Year"
+    },
+    {
+        "name": "Rishit",
+        "email": "r@gmail.com",
+        "mobile": "1234567858",
+        "password": "$2y$10$mD5i6VXegh9P1ZbvZrtgI.2l8zH6DXWM0V2Fmvlr1LI6NeNZ\/mvRK",
+        "course": "B.Tech AIML",
+        "year": "2nd Year"
+    }
+]
